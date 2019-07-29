@@ -1,5 +1,6 @@
 # Netflix On The TOP
 Mini-player para assistir netflix enquanto executa outras atividades.
+Criado por  [Juan Almeida](https://juanalmeida.ga "Juan Almeida website's")
 
 ## Comandos para o Sistema
 
