@@ -1,6 +1,10 @@
 # Netflix On The TOP
-Mini-player para assistir netflix enquanto executa outras atividades.
+Mini-player para assistir netflix baseado no IE para uso reduzido de ram.
 Criado por  [Juan Almeida](https://juanalmeida.ga "Juan Almeida website's")
+
+# Requisitos minimos
+ [Microsoft Silverlight plugin (Link direto) ](http://go.microsoft.com/fwlink/?LinkID=229321 "Download Silverlight direto")
+ [Microsoft Silverlight plugin (Homepage) ](https://www.microsoft.com/silverlight/ "Homepage MS Silverlight")
 
 ## Comandos para o Sistema
 
